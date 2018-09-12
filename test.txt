@@ -1,3 +1,2 @@
 hello, this is a test. Now to test a merge.
 rebase on master
-Testing rebase
